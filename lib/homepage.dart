@@ -217,7 +217,7 @@ class _homeState extends State<home> {
               Padding(
                 padding: const EdgeInsets.all(16.0),
                 child: Text(
-                  'No interests selected.',
+                  'No interests selected yet.',
                   style: TextStyle(
                     color: Colors.grey,
                     fontSize: 16,
